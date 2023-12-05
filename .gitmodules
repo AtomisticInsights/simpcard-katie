@@ -1,0 +1,4 @@
+[submodule "themes/simpcard"]
+	path = themes/simpcard
+	url = https://github.com/benjipeng/hugo-simpcard
+	branch = dev
